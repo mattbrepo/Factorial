@@ -22,10 +22,7 @@ Log factorial: 5040
 Stirling's approximation factorial: 4980.39583161246
 ```
 
-[Binomial coefficient](https://en.wikipedia.org/wiki/Binomial_coefficient) with:
-
-* n: 100
-* k: 10
+[Binomial coefficient](https://en.wikipedia.org/wiki/Binomial_coefficient) with _n=100_ and _k=10_:
 
 ```
 Standard factorial 1: 17310309456440
