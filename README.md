@@ -1,7 +1,7 @@
 # Factorial
 Different ways to calculate the factorial:
 
-* standard (i.e. triavial) algorithm
+* standard (i.e. trivial) algorithm
 * [Log factorial](https://www.johndcook.com/blog/2010/08/16/how-to-compute-log-factorial/)
 * [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
 
