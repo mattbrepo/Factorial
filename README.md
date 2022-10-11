@@ -1,16 +1,18 @@
 # Factorial
-Different ways to calculate the factorial:
-
-* standard (i.e. trivial) algorithm
-* [Log factorial](https://www.johndcook.com/blog/2010/08/16/how-to-compute-log-factorial/)
-* [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
+Different ways to calculate the factorial.
 
 **Language: C#**
 
 **Start: 2015**
 
 ## Why
-It seems mandatory for any programmer to go through how to calculate factorials!
+It seems mandatory for any programmer to study how to calculate the factorial!
+Here are some ways to calculate the factorial:
+
+- Standard (i.e. trivial algorithm)
+- [Log factorial](https://www.johndcook.com/blog/2010/08/16/how-to-compute-log-factorial/)
+- [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
+
 
 ## Example
 
