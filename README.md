@@ -7,7 +7,7 @@ Different ways to calculate the factorial.
 
 ## Why
 It seems mandatory for any programmer to study how to calculate the factorial!
-Here are some ways to calculate the factorial:
+Here are some ways to do that:
 
 - Standard (i.e. trivial algorithm)
 - [Log factorial](https://www.johndcook.com/blog/2010/08/16/how-to-compute-log-factorial/)
